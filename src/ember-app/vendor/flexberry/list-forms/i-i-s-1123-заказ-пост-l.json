@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-1123-заказ-пост-e",
+  "editForm": "i-i-s-1123-заказ-пост-e",
+  "external": false,
+  "caption": "Заказ пост",
+  "name": "IIS1123ЗаказПостL",
+  "className": "ЗаказПостL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-1123-заказ-пост",
+      "modelProjection": "ЗаказПостL"
+    }
+  ]
+}

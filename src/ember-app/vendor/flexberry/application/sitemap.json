@@ -1,0 +1,71 @@
+﻿{
+  "applicationCaption": "1123",
+  "applicationTitle": "1123",
+  "items": [
+    {
+      "link": null,
+      "menuName": "1123",
+      "caption": "1123",
+      "title": "1123",
+      "children": [
+        {
+          "link": "i-i-s-1123-отчет-о-зак-l",
+          "menuName": null,
+          "caption": "Отчет о зак",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-1123-контрагенты-l",
+          "menuName": null,
+          "caption": "Контрагенты",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-1123-склады-l",
+          "menuName": null,
+          "caption": "Склады",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-1123-заказ-пост-l",
+          "menuName": null,
+          "caption": "Заказ пост",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-1123-единицы-измер-l",
+          "menuName": null,
+          "caption": "Единицы измер",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-1123-организации-l",
+          "menuName": null,
+          "caption": "Организации",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-1123-план-закупок-l",
+          "menuName": null,
+          "caption": "План закупок",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-1123-номенклатура-l",
+          "menuName": null,
+          "caption": "Номенклатура",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
